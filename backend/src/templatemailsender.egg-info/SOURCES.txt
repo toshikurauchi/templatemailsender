@@ -1,0 +1,4 @@
+src/templatemailsender.egg-info/PKG-INFO
+src/templatemailsender.egg-info/SOURCES.txt
+src/templatemailsender.egg-info/dependency_links.txt
+src/templatemailsender.egg-info/top_level.txt
